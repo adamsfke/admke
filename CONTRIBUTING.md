@@ -1,6 +1,7 @@
 # Mitwirken am Projekt ADMKE
 
-Vielen Dank für dein Interesse an diesem Projekt!
+Vielen Dank für dein Interesse an diesem Projekt! 
+(English version below)
 
 Dieses Projekt basiert auf einer besonderen Form der kognitiven Reflexion: Autistisches Denken wird hier als Modellstruktur für ethische Entscheidungsfindung in KI-Systemen erforscht. Jede Mitwirkung soll dieses Ziel respektieren und unterstützen.
 
@@ -33,6 +34,7 @@ Bei größeren Vorschlägen oder Kooperationen gerne per Pull Request oder Issue
 
 Danke für dein Mitdenken!
 
+-----
 
 # Contributing to the ADMKE Project
 
