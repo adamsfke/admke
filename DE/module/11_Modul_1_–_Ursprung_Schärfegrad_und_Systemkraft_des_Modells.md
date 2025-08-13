@@ -1,4 +1,4 @@
-# 🧩 Modul 1 – Ursprung, Schärfegrad und Systemkraft des Modells
+# Modul 1 – Ursprung, Schärfegrad und Systemkraft des Modells
 
 **Zielsetzung:**
 
