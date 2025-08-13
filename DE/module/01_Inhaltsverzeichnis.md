@@ -110,4 +110,4 @@ Metamodul INT.Z.B – Sind genetische Variationen wirklich zufällig?
 
 Metamodul INT.Z.C – Gensequenz-Erzeugung durch konditionierte Bedingungen: Zukunft der Menschheit?
 
-🧭 Metamodul INT.Z.D – Ethik der Bedingungssteuerung in der genetischen Entwicklung
+Metamodul INT.Z.D – Ethik der Bedingungssteuerung in der genetischen Entwicklung
