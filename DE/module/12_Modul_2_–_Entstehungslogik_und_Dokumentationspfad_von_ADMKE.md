@@ -1,4 +1,4 @@
-# 🧩 Modul 2 – Entstehungslogik und Dokumentationspfad von ADMKE
+# Modul 2 – Entstehungslogik und Dokumentationspfad von ADMKE
 
 **Zielsetzung:**
 
