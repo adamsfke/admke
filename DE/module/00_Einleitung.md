@@ -1,4 +1,4 @@
-**Projekt: *_A*utistisches *_D*enken als *_M*odellstruktur für *_K*I-*_E*thik (ADMKE)**
+**Projekt: *A*utistisches *D*enken als *M*odellstruktur für *K*I-*E*thik (ADMKE)**
 
 **Kurzbeschreibung:**
 
