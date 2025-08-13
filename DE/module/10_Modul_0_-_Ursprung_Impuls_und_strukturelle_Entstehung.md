@@ -1,4 +1,4 @@
-# 🧩 Modul 0 – Ursprung, Impuls und strukturelle Entstehung
+# Modul 0 – Ursprung, Impuls und strukturelle Entstehung
 
 **0.1. Ausgangspunkt und Beobachtung**
 
